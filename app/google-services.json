@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341171101468",
+    "project_id": "vaccine-tracker-80e29",
+    "storage_bucket": "vaccine-tracker-80e29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341171101468:android:09ac204ed67b88989124d9",
+        "android_client_info": {
+          "package_name": "com.example.vaccinetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341171101468-3fdbb8v8qjis79msk08016bvull91qqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-gAcFN4EddpF1xLLH7g4z3YpU4EfU3yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341171101468-3fdbb8v8qjis79msk08016bvull91qqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
